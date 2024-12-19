@@ -28,4 +28,3 @@ def search(n, m, k):
 n, m, k = map(int, input().split())
 final_result = search(n, m, k)
 print(final_result)
-#되는거 맞나
